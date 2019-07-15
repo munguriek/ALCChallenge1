@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ALC Challenge 1</string>
+    <string name="activity_a">ALC 4 Phase 1</string>
+    <string name="activity_b">About ALC</string>
+    <string name="activity_c">My Profile</string>
+    <string name="title_activity_about_alc">About ALC</string>
+    <string name="title_activity_my_profile">My Profile</string>
+</resources>
